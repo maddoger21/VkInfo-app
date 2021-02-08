@@ -2,4 +2,5 @@
 <resources>
     <string name="id">Введите id во Вконтакте</string>
     <string name="search">Search!</string>
+    <string name="result">Результат будет отображен здесь</string>
 </resources>
