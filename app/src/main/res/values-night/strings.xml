@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="id">Введите id во Вконтакте</string>
+    <string name="search">Search!</string>
 </resources>

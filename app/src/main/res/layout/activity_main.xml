@@ -21,8 +21,10 @@
             android:padding="10dp"
             android:textSize="25sp"/>
         <Button
-            android:layout_width=""
-            android:layout_height=""
+            android:id="@+id/b_search_vk"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/search"
             />
     </LinearLayout>
 

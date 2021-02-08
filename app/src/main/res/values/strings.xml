@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">VKInfo</string>
     <string name="id">Введите id во Вконтакте</string>
+    <string name="search">Search!</string>
 </resources>
